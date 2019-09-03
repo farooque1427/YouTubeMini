@@ -9,7 +9,7 @@
 	<div class="navbar-collapse collapse justify-content-center" id="navb">
 		<form class="form-inline my-4 my-lg-0">
 			<div class="input-group ">
-				<input type="text" class="form-control" placeholder="Your Email"
+				<input type="text" class="form-control" placeholder="Search"
 					id="mail" name="email">
 				<div class="input-group-append">
 					<input type="submit" value="Search" class="btn btn-primary">
