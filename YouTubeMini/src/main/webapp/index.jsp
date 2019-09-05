@@ -17,7 +17,7 @@
 			<div class="card-columns">
 			<c:forEach begin="1" end="20">
 				<div class="card" style="width: 200px;">
-					<img class="card-img-top" src="imeges/Koala.jpg" alt="Card image"
+					<img class="card-img-top" src="images/Koala.jpg" alt="Card image"
 						style="width: 100%;height: 100px;">
 					<div class="card-body">
 						<p class="card-text">Some example text some example text.</p>
