@@ -1,5 +1,5 @@
 <%@ page language="java" contentType="text/html; charset=ISO-8859-1"
-	pageEncoding="ISO-8859-1"%>
+	pageEncoding="ISO-8859-1" isELIgnored="false"%>
 <!DOCTYPE html>
 <html>
 <head>
@@ -31,7 +31,7 @@
 						<b>Sign In</b>
 					</h3>
 					<br>
-					<form action="" class="form-group">
+					<form action="signin.htm" method="post" class="form-group">
 						<div class="input-group mb-3 ">
 							<div class="input-group-prepend">
 								<span class="input-group-text"><i
@@ -56,6 +56,7 @@
 						</div>
 						<div class="input-group mb-3 " align="center">
 							<a  href="signup.jsp"class="text text-white" >Create Account</a>
+							${Message }
 						</div>
 					</form>
 				</div>

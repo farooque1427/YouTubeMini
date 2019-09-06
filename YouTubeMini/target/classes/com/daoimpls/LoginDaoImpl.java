@@ -1,4 +1,4 @@
-package com.daoimpl;
+package com.daoimpls;
 
 public class LoginDaoImpl {
 
